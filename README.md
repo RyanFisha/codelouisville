@@ -1,3 +1,3 @@
 ## Treehouse
 
-This repo is for all my course files completed through teamtreehouse.com
+Attempting to help my friend expand his business to the online shopping world
